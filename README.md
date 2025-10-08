@@ -1,4 +1,4 @@
-<h1 align="center"><code>Email Security</code></h1> <p align="center"> <img src="https://github.com/Arby-Hex/PyObfuscate/blob/main/banner.png" width="590"><br><br>
+<p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Hitam%20modern%20keamanan%20siber%20presentasi_20251008_193453_0000.png" width="400"><br><br>
 <p align="center">
     <a href="https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v">
       <img src="https://img.shields.io/badge/-WHATSAPP-black?logo=whatsapp&style=for-the-badge">
