@@ -17,7 +17,9 @@ git clone https://github.com/DaemonTechX/email_security
 cd email_security
 python emailsec.py
 
-**Jika Ingin Menjalankan Toolsnya Kembali Setelah Exit Dari Termux Maka Cukup Jalankan Ini**
+**Jika Ingin Menjalankan Toolsnya
+Kembali Setelah Exit Dari Termux
+Maka Cukup Jalankan Ini**
 
 cd $HOME
 cd email_security
