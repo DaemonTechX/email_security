@@ -42,3 +42,14 @@ python emailsec.py
 > **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
 
 `SCREENSHOT`
+<p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Screenshot_20251009-053202.png" width="400"><br><br>
+
+---
+    
+> <h4> DEMO </h4>
+<p align="center">
+<a href="https://www.youtube.com/@ByexeOfficial">
+      <img src="https://img.shields.io/badge/-DEMO ON YOUTUBE-black?logo=youtube&style=for-the-badge">
+    </a>
+    &nbsp;
+</p>
