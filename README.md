@@ -57,4 +57,4 @@ python emailsec.py
 ---
 
 <h1 align="center"><code>Author</code></h1>
-<p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Screenshot_20251009-053202.png" width="400"><br><br>
+<p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Red%20Black%20Modern%20Technology%20Presentation_20251009_054924_0000.png" width="400"><br><br>
