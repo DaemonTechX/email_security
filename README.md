@@ -17,3 +17,26 @@
     </a>
 
 </p>
+
+Tools ini dirancang untuk mempermudah kita dalam mengetahui keamanan password, terutama password email yang menjadi akun terpenting kita saat ini.
+
+`FITUR YANG TERSEDIA`
+- **Cek Tingkat Keamanan Password Email**
+- **Generat Password Super Kuat**
+
+Bagaimana cara menjalankan tools ini?
+Silahkan ikuti command command dibawah ini lalu jalankan di Termux
+
+```bash
+pkg update && pkg upgrade
+pkg install python
+pkg install git
+git clone https://github.com/DaemonTechX/email_security
+cd email_security
+python emailsec.py
+```
+
+---
+
+> [!CAUTION] 
+> **versi Termux di Google Play Store sudah tidak terurus dan mungkin tidak menerima pembaruan penting. Untuk pengalaman terbaik dan dukungan komunitas, silakan unduh Termux melalui F-Droid. Di sana kamu akan mendapatkan versi resmi yang lebih up-to-date, tanpa modifikasi berbahaya. Tekan tombol 'Unduh dari F-Droid' untuk mulai.**
